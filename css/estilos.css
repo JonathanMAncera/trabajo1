@@ -36,6 +36,56 @@ label{
 	margin-bottom: 10px;
 }
 
+input[type ="text"]{
+	border: none;
+	border-bottom: 1px solid #008374;
+	border-radius: 4px;
+  	background-color: #f8f8f8;
+	text-align: center; 
+}
+
+input[type ="tel"]{
+	border: none;
+	border-bottom: 1px solid #008374;
+	border-radius: 4px;
+  	background-color: #f8f8f8;
+	text-align: center; 
+}
+
+input[type ="tel"]{
+	border: none;
+	border-bottom: 1px solid #008374;
+	border-radius: 4px;
+  	background-color: #f8f8f8;
+	text-align: center; 
+}
+input[type ="date"]{
+	border: 1px solid #008374;
+	border-radius: 4px;
+  	background-color: #f8f8f8;
+	text-align: center; 
+	font-family: open-sans, 'arial';
+}
+
+input[type ="time"]{
+	border: 1px solid #008374;
+	border-radius: 4px;
+  	background-color: #f8f8f8;
+	text-align: center; 
+	font-family: open-sans, 'arial';
+}
+
+textarea {
+	border: 1px solid #008374;
+	border-radius: 4px;
+  	background-color: #f8f8f8;
+	text-align: center; 
+	font-family: open-sans, 'arial';
+	width: 320px;
+	height: 100px;
+	resize: none;
+}
+
 .btn-Enviar {
 	background: #00112c;
 	color: #fff;
@@ -45,6 +95,7 @@ label{
 	display: block;
 	margin: 0px 10px;
 	border: none;
+	width: 300px;
 
 }
 
